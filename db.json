@@ -13,7 +13,11 @@
       "emailAdd": "orsay@espritdefrance.com",
       "info": "Heure d'arrivée : 14:00",
       "imgUrl": "https://assets-global.website-files.com/61cf0834de72b356d1a534f3/63bedee8c5f3b747036243bb_2021%20Nov%20-%20Hotel%20d%27Orsay%20-%20November%20Studio%20-%20Chambre%20Classique-9.jpg",
-      "imgRooms": "https://assets-global.website-files.com/61cf0834de72b32be8a5350e/61d809d2bfb0317e681b595e_Hotel-d-Orsay-Paris-Superieure-Esprit-de-France-01.png",
+      "imgRooms": {
+        "Room1": https://assets-global.website-files.com/61cf0834de72b32be8a5350e/61d809d2bfb0317e681b595e_Hotel-d-Orsay-Paris-Superieure-Esprit-de-France-01.png",
+        "Room2": "",
+
+      },
       "isClaimed": true,
       "latitude": "48.860437499999975",
       "longitude": "2.323062500000006"
