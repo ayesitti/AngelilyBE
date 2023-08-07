@@ -1832,18 +1832,18 @@
 
   "users": [
     {
-      "id": 1,
       "name": "Angel Hooks",
-      "userName": "angel",
+      "username": "angel",
       "email": "angel@hooks.com",
-      "password": "hooks12345"
+      "password": "hooks12345",
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Lily Hooks",
       "username": "lily",
       "email": "lily@hooks.com",
-      "password": "hooks12345"
+      "password": "hooks12345",
+      "id": 2
     },
     {
       "id": 3,
@@ -1853,25 +1853,25 @@
       "password": "hooks12345"
     },
     {
-      "id": 4,
       "name": "Leia Hooks",
-      "userName": "leia",
+      "username": "leia",
       "email": "leia@hooks.com",
-      "password": "hooks12345"
+      "password": "hooks12345",
+      "id": 4
     },
     {
-      "id": 5,
       "name": "Agathe Hooks",
-      "userName": "agathe",
+      "username": "agathe",
       "email": "agathe@hooks.com",
-      "password": "hooks12345"
+      "password": "hooks12345",
+      "id": 5
     },
     {
-      "id": 6,
       "name": "Jose Hooks",
-      "userName": "jose",
+      "username": "jose",
       "email": "jose@hooks.com",
-      "password": "hooks12345"
+      "password": "hooks12345",
+      "id": 6
     }
   ]
 }
