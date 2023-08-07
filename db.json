@@ -1841,14 +1841,14 @@
     {
       "id": 2,
       "name": "Lily Hooks",
-      "userName": "lily",
+      "username": "lily",
       "email": "lily@hooks.com",
       "password": "hooks12345"
     },
     {
       "id": 3,
       "name": "Conrad Hooks",
-      "userName": "conrad",
+      "username": "conrad",
       "email": "conrad@hooks.com",
       "password": "hooks12345"
     },
