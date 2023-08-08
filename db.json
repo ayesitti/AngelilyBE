@@ -1886,11 +1886,6 @@
       "id": 2,
       "hotelId": 6,
       "userId": 3
-    },
-    {
-      "id": 3,
-      "hotelId": 5,
-      "userId": 2
     }
   ]
 }
