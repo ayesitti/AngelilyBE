@@ -1873,5 +1873,33 @@
       "password": "hooks12345",
       "id": 6
     }
+  ],
+  "ratings": [
+    {
+      "score": 0,
+      "comment": "Smelling bad"
+    },
+    {
+      "score": 4,
+      "comment": "All good"
+    }
+  ],
+
+  "favorites": [
+    {
+      "favoriteId": 1,
+      "hotelId": 4,
+      "userId": 3
+    },
+    {
+      "favoriteId": 2,
+      "hotelId": 6,
+      "userId": 3
+    },
+    {
+      "favoriteId": 3,
+      "hotelId": 5,
+      "userId": 2
+    }
   ]
 }
