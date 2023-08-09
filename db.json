@@ -1903,19 +1903,22 @@
       "id": 1,
       "userId": 1,
       "favoritesId": 1,
-      "personalnote": "I've stayed here last summer, thinking to come back next week."
+      "text": "I've stayed here last summer, thinking to come back next week.",
+      "date": "30/10/2023"
     },
     {
       "id": 2,
       "userId": 2,
       "favoritesId": 1,
-      "personalnote": "Hotel that I could recommend to my sister"
+      "text": "Hotel that I could recommend to my sister",
+      "date": "30/10/2023"
     },
     {
       "id": 3,
       "userId": 3,
       "favoritesId": 1,
-      "personalnote": "Planning to stay here for our vacation on December"
+      "text": "Planning to stay here for our vacation on December",
+      "date": "30/10/2023"
     }
   ]
 }
