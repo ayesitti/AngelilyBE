@@ -1897,5 +1897,25 @@
       "hotelId": 6,
       "userId": 3
     }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "hotelId": 6,
+      "personalnote": "I've stayed here last summer, thinking to come back next week."
+    },
+    {
+      "id": 2,
+      "userId": 5,
+      "hotelId": 6,
+      "personalnote": "Hotel that I could recommend to my sister"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "hotelId": 6,
+      "personalnote": "Planning to stay here for our vacation on December"
+    }
   ]
 }
