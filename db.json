@@ -212,9 +212,7 @@
         "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-rooms-suites-haute-couture-suite-living-room.jpg",
         "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-deluxe-suite-livingroom-1920x840.jpg",
         "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-js-deluxe-classic-1920x840.jpg",
-        "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-superior-room-CLASSIC-1920x840.jpg",
-        "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-prestige-suite-bedroom-1.jpg",
-        "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-royalsuite-livingroom-1920x840.jpg"
+        "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-superior-room-CLASSIC-1920x840.jpg"
       ],
       "isClaimed": true,
       "latitude": "48.8597182278",
@@ -340,8 +338,7 @@
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/83/ab/2f/grand-hotel-des-gobelins.jpg?w=1400&h=-1&s=1",
         "https://www.grandhotelgobelins.com/wp-content/uploads/2022/12/chambre-double-standard-grand-hotel-gobelins-paris.jpg",
         "https://www.grandhotelgobelins.com/wp-content/uploads/2022/12/PARTIES-COMMUNES_3.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/83/ab/2f/grand-hotel-des-gobelins.jpg?w=1400&h=-1&s=1",
-        "https://www.grandhotelgobelins.com/wp-content/uploads/2022/12/PARTIES-COMMUNES_7.jpg"
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/83/ab/2f/grand-hotel-des-gobelins.jpg?w=1400&h=-1&s=1"
       ],
       "isClaimed": true,
       "latitude": "48.837562500000004",
@@ -650,12 +647,12 @@
       "phoneNumber": "0 892 23 40 69",
       "emailAdd": "",
       "info": "Heure d'arrivée : 14:00",
-      "imgUrl": "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
+      "imgUrl": "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-prestige-suite-bedroom-1.jpg",
+
       "imgRooms": [
         "https://ritzparis.twic.pics/prod/suite-windsor-vincent-leroux-11_2x.jpg?twic=v1/cover=2880x1260/quality=85",
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
-        "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/suite-vendome-vincent-leroux-1_2x.jpg?twic=v1/cover=2170x949/quality=85"
       ],
       "isClaimed": true,
@@ -677,9 +674,8 @@
       "phoneNumber": "01 46 07 76 27",
       "emailAdd": "",
       "info": "Heure d'arrivée : 14:00",
-      "imgUrl": "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
+      "imgUrl": "https://www.dorchestercollection.com/wp-content/uploads/paris-plaza-athenee-royalsuite-livingroom-1920x840.jpg",
       "imgRooms": [
-        "https://ritzparis.twic.pics/prod/suite-windsor-vincent-leroux-11_2x.jpg?twic=v1/cover=2880x1260/quality=85",
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
@@ -703,12 +699,11 @@
       "phoneNumber": "01 40 47 04 00",
       "emailAdd": "",
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu turpis egestas pretium. Dictum non consectetur a erat nam at lectus urna. Et tortor at risus viverra adipiscing at in tellus. Tincidunt id aliquet risus feugiat in ante. Et netus et malesuada fames ac turpis egestas integer. 0",
-      "imgUrl": "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
+      "imgUrl": "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
       "imgRooms": [
         "https://ritzparis.twic.pics/prod/suite-windsor-vincent-leroux-11_2x.jpg?twic=v1/cover=2880x1260/quality=85",
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
-        "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/suite-vendome-vincent-leroux-1_2x.jpg?twic=v1/cover=2170x949/quality=85"
       ],
       "isClaimed": true,
@@ -733,7 +728,6 @@
       "imgUrl": "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
       "imgRooms": [
         "https://ritzparis.twic.pics/prod/suite-windsor-vincent-leroux-11_2x.jpg?twic=v1/cover=2880x1260/quality=85",
-        "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/suite-vendome-vincent-leroux-1_2x.jpg?twic=v1/cover=2170x949/quality=85"
@@ -781,7 +775,7 @@
       "phoneNumber": "01 46 04 91 58",
       "emailAdd": "contact1@hotel.com",
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu turpis egestas pretium. Dictum non consectetur a erat nam at lectus urna. Et tortor at risus viverra adipiscing at in tellus. Tincidunt id aliquet risus feugiat in ante. Et netus et malesuada fames ac turpis egestas integer. 0",
-      "imgUrl": "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
+      "imgUrl": "https://www.grandhotelgobelins.com/wp-content/uploads/2022/12/PARTIES-COMMUNES_7.jpg",
       "imgRooms": [
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
@@ -806,9 +800,8 @@
       "phoneNumber": "01 40 03 67 52",
       "emailAdd": "",
       "info": "HLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu turpis egestas pretium. Dictum non consectetur a erat nam at lectus urna. Et tortor at risus viverra adipiscing at in tellus. Tincidunt id aliquet risus feugiat in ante. Et netus et malesuada fames ac turpis egestas integer. ",
-      "imgUrl": "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
+      "imgUrl": "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
       "imgRooms": [
-        "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://www.fourseasons.com/alt/img-opt/~80.1860.0,0000-154,2500-2996,6609-1685,6217/publish/content/dam/fourseasons/images/web/PAR/PAR_1504_original.jpg",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
@@ -863,8 +856,7 @@
         "https://www.vertgalant.com/wp-content/uploads/2019/08/chambre-double-confort-hotel-le-vert-galant-paris-5.jpg",
         "https://www.vertgalant.com/wp-content/uploads/2019/08/chambre-simple-hotel-le-vert-galant-paris-1-1024x683.jpg",
         "https://www.vertgalant.com/wp-content/uploads/2019/08/chambre-simple-hotel-le-vert-galant-paris-2-1024x683.jpg",
-        "https://www.vertgalant.com/wp-content/uploads/2019/08/chambre-double-confort-hotel-le-vert-galant-paris-4-1024x683.jpg",
-        "https://www.vertgalant.com/wp-content/uploads/2019/08/hotel-le-vert-galant-paris-jardin-12-768x512.jpg"
+        "https://www.vertgalant.com/wp-content/uploads/2019/08/chambre-double-confort-hotel-le-vert-galant-paris-4-1024x683.jpg"
       ],
       "isClaimed": true,
       "latitude": "48.83218750000002",
@@ -939,7 +931,6 @@
       "imgRooms": [
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
-        "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/suite-vendome-vincent-leroux-1_2x.jpg?twic=v1/cover=2170x949/quality=85",
         "https://www.fourseasons.com/alt/img-opt/~80.1860.0,0000-171,7499-2997,7234-1686,2194/publish/content/dam/fourseasons/images/web/PAR/PAR_1727_original.jpg"
       ],
@@ -966,7 +957,6 @@
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2880x1260/quality=85",
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
-        "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/suite-vendome-vincent-leroux-1_2x.jpg?twic=v1/cover=2170x949/quality=85"
       ],
       "isClaimed": true,
@@ -987,11 +977,10 @@
       "phoneNumber": "01 48 78 68 35",
       "emailAdd": "",
       "info": "Heure d'arrivée : 14:00",
-      "imgUrl": "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
+      "imgUrl": "https://www.vertgalant.com/wp-content/uploads/2019/08/hotel-le-vert-galant-paris-jardin-12-768x512.jpg",
       "imgRooms": [
         "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
-        "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/suite-vendome-vincent-leroux-1_2x.jpg?twic=v1/cover=2170x949/quality=85"
       ],
@@ -1013,9 +1002,8 @@
       "phoneNumber": "01 83 75 51 51",
       "emailAdd": "contact1@hotel.com",
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu turpis egestas pretium. Dictum non consectetur a erat nam at lectus urna. Et tortor at risus viverra adipiscing at in tellus. Tincidunt id aliquet risus feugiat in ante. Et netus et malesuada fames ac turpis egestas integer. ",
-      "imgUrl": "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
+      "imgUrl": "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
       "imgRooms": [
-        "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
@@ -1164,7 +1152,7 @@
       "phoneNumber": "01 56 06 44 00",
       "emailAdd": "",
       "info": "CADET Residence in the centre of Paris offers large apartments for unforgettable short-term rentals in Paris! They are indeed spacious apartments, with colorful decoration, fitted out as living spaces to stay with family or friends (for 2 to 6 people).",
-      "imgUrl": "https://ritzparis.twic.pics/prod/suite-coco-chanel-vincent-leroux-4_2x.jpg?twic=v1/cover=2170x949/quality=85",
+      "imgUrl": "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
       "imgRooms": [
         "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
@@ -1192,7 +1180,6 @@
       "imgUrl": "https://ritzparis.twic.pics/prod/suite-514-vincent-leroux-1_2x_0.jpg?twic=v1/cover=2880x1260/quality=85",
       "imgRooms": [
         "https://ritzparis.twic.pics/prod/suite-514-vincent-leroux-1_2x_0.jpg?twic=v1/cover=2880x1260/quality=85",
-        "https://ritzparis.twic.pics/prod/hero_1.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-3.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/lappartement-ritz-c-vincent-leroux-5.jpg?twic=v1/cover=2170x949/quality=85",
         "https://ritzparis.twic.pics/prod/suite-vendome-vincent-leroux-1_2x.jpg?twic=v1/cover=2170x949/quality=85"
