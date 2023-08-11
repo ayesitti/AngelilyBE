@@ -1856,20 +1856,20 @@
     {
       "id": 1,
       "userId": 1,
-      "score": 0,
+      "score": 5,
       "comment": "Wonderful views."
     },
     {
       "id": 2,
-      "userId": 2,
-      "score": 0,
-      "comment": "Smelling bad"
+      "userId": 5,
+      "score": 5,
+      "comment": "We had a great stay during our honeymoon, I totally recommend"
     },
     {
       "id": 3,
-      "userId": 5,
-      "score": 0,
-      "comment": "Horrible"
+      "userId": 3,
+      "score": 1,
+      "comment": "I didn't like it... The bed was super hard"
     }
   ],
 
